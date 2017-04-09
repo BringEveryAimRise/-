@@ -56,8 +56,6 @@ public class MyAsyncTask  extends AsyncTask<String,Integer,String> {
 
             }
 
-
-
         } catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (IOException e) {
